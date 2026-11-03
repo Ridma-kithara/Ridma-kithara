@@ -276,11 +276,11 @@ HTML landing page for IEEE Day at ICBT Campus — contact details and event info
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/assets/stats.svg" alt="GitHub stats: 48 contributions, 39 commits, 3 pull requests, 10 public repositories, 14 active days, 6-day longest streak, plus the byte-weighted language mix">
+  <img width="100%" src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/assets/stats.svg" alt="GitHub stats: 49 contributions, 40 commits, 3 pull requests, 10 public repositories, 15 active days, 6-day longest streak, plus the byte-weighted language mix">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/assets/activity.svg" alt="52-week neon contribution calendar: 48 contributions, 14 active days, 6-day longest streak, busiest day 24 October with 9 contributions">
+  <img width="100%" src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/assets/activity.svg" alt="52-week neon contribution calendar: 49 contributions, 15 active days, 6-day longest streak, busiest day 24 October with 9 contributions">
 </p>
 
 <p align="center">

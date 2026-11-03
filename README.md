@@ -293,6 +293,10 @@ HTML landing page for IEEE Day at ICBT Campus — contact details and event info
   <img width="100%" src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/profile-3d-contrib/profile-neon.svg" alt="3D isometric contribution graph">
 </p>
 
+<p align="center">
+  <sub>Plane = daily contributions · pie = commit share by each repo's primary language · radar = commits, repos, issues, PRs and reviews. Regenerated every day at 03:17 UTC.</sub>
+</p>
+
 <h3 align="center">🐍 The snake that eats my contributions</h3>
 
 <p align="center">

@@ -43,7 +43,7 @@
 <td width="33%" align="center" valign="top">
   <img src="https://raw.githubusercontent.com/Ridma-kithara/Ridma-kithara/main/assets/avatar-3d.gif" width="290" alt="Holographic 3D profile card for Ridma Kithara">
   <br>
-  <sub><b>HOLO-ID // RK-2026</b><br>drag your cursor around the neon</sub>
+  <sub><b>HOLO-ID // RK-2026</b><br>auto-rotating hologram · built from the real avatar</sub>
 </td>
 <td width="67%" valign="top">
 
@@ -284,7 +284,7 @@ HTML landing page for IEEE Day at ICBT Campus — contact details and event info
 </p>
 
 <p align="center">
-  <sub>Self-hosted SVGs generated from the GitHub API — no third-party stats service, no 503s, no rate-limit badge graveyard.</sub>
+  <sub>Self-hosted SVGs generated from the GitHub API — no third-party stats service, no 503s, no rate-limit badge graveyard. Snapshot captured 3 Nov 2026; the 3D graph and snake below refresh daily.</sub>
 </p>
 
 <h3 align="center">🧊 3D contribution graph</h3>

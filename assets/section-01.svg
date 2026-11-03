@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="ABOUT — THE HUMAN BEHIND THE COMMITS">
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#22d3ee" stop-opacity="1"/><stop offset="100%" stop-color="#67e8f9" stop-opacity="1"/></linearGradient>
+  <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0a0d16" stop-opacity="1"/><stop offset="100%" stop-color="#0c101c" stop-opacity="1"/></linearGradient>
+  <linearGradient id="fadeLine" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="18%" stop-color="#22d3ee" stop-opacity="0.95"/><stop offset="82%" stop-color="#67e8f9" stop-opacity="0.95"/><stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+  <filter id="g" x="-60%" y="-200%" width="220%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="url(#panel)" stroke="#1d293b" stroke-width="1.4"/>
+<rect x="0" y="0" width="1200" height="104" rx="18" fill="none" stroke="#22d3ee" stroke-opacity=".06"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)" filter="url(#g)" opacity=".55"/>
+<g transform="translate(46.00 64.00) scale(0.027000 -0.027000)" fill="#22d3ee" ><path transform="translate(0.00 0)" d="M34 565Q34 601 46.5 629.0Q59 657 80 677Q101 697 128.5 707.5Q156 718 186 718Q216 718 243.5 707.5Q271 697 292 677Q313 657 325.5 629.0Q338 601 338 565V147Q338 111 325.5 83.0Q313 55 292 35Q271 15 243.5 4.5Q216 -6 186 -6Q156 -6 128.5 4.5Q101 15 80 35Q59 55 46.5 83.0Q34 111 34 147ZM136 147Q136 125 150.0 110.5Q164 96 186 96Q208 96 222.0 110.5Q236 125 236 147V565Q236 587 222.0 601.5Q208 616 186 616Q164 616 150.0 601.5Q136 587 136 565Z"/><path transform="translate(427.56 0)" d="M155 0V604L53 529V637L155 712H257V0Z"/></g>
+<g transform="translate(92.00 61.00) scale(0.036000 -0.036000)" fill="#e8eef7" ><path transform="translate(0.00 0)" d="M254 249 204 507H202L152 249ZM2 0 161 712H246L405 0H303L273 153H134L104 0Z"/><path transform="translate(473.67 0)" d="M48 0V712H197Q246 712 280.5 697.0Q315 682 337 657Q359 632 368.5 599.5Q378 567 378 532V506Q378 477 373.5 457.0Q369 437 360 422Q343 394 308 374Q344 357 361.0 324.0Q378 291 378 234V194Q378 100 332.5 50.0Q287 0 187 0ZM150 330V102H194Q225 102 242.5 111.0Q260 120 269 136Q278 152 280.0 174.0Q282 196 282 222Q282 249 279.0 269.0Q276 289 267 303Q257 317 240.0 323.5Q223 330 195 330ZM150 616V420H196Q247 420 264.5 445.5Q282 471 282 520Q282 568 262.5 592.0Q243 616 192 616Z"/><path transform="translate(966.33 0)" d="M42 544Q42 587 57.0 620.0Q72 653 97 675Q121 696 151.5 707.0Q182 718 213 718Q244 718 274.5 707.0Q305 696 330 675Q354 653 369.0 620.0Q384 587 384 544V168Q384 123 369.0 91.0Q354 59 330 38Q305 16 274.5 5.0Q244 -6 213 -6Q182 -6 151.5 5.0Q121 16 97 38Q72 59 57.0 91.0Q42 123 42 168ZM144 168Q144 131 164.5 113.5Q185 96 213 96Q241 96 261.5 113.5Q282 131 282 168V544Q282 581 261.5 598.5Q241 616 213 616Q185 616 164.5 598.5Q144 581 144 544Z"/><path transform="translate(1459.00 0)" d="M378 712V160Q378 125 365.5 95.5Q353 66 330 43Q307 20 277.0 7.0Q247 -6 213 -6Q179 -6 149.5 7.0Q120 20 97 43Q74 66 61.0 95.5Q48 125 48 160V712H150V170Q150 132 168.0 114.0Q186 96 213 96Q240 96 258.0 114.0Q276 132 276 170V712Z"/><path transform="translate(1951.67 0)" d="M115 0V616H-3V712H335V616H217V0Z"/></g>
+<text x="93" y="82" fill="#8190a6" text-anchor="start" font-family="'Arial Black', 'Arial', 'Helvetica', sans-serif" font-size="10.5" font-weight="bold" letter-spacing="2.1" >THE HUMAN BEHIND THE COMMITS</text>
+<line x1="92" y1="91" x2="1040" y2="91" stroke="#1b2638" stroke-width="1.2"/>
+<g filter="url(#g)">
+  <line x1="92" y1="91" x2="212" y2="91" stroke="url(#fadeLine)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="92;900;92" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="212;1040;212" dur="7s" repeatCount="indefinite"/>
+  </line>
+</g>
+<circle cx="1112" cy="52" r="23" fill="#22d3ee" fill-opacity=".05" stroke="#22d3ee" stroke-opacity=".16"/>
+<g transform="translate(1096 32)" fill="none" stroke="#67e8f9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><circle cx="16" cy="10" r="5.2"/><path d="M5 28c1.2-6 5.4-9 11-9s9.8 3 11 9"/></g>
+<text x="1160" y="94" text-anchor="end" fill="#263247" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">RK // 2026</text>
+</svg>

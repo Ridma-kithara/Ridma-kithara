@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="EVIDENCE — TESTS · CERTIFICATES · RECEIPTS">
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#34d399" stop-opacity="1"/><stop offset="100%" stop-color="#6ee7b7" stop-opacity="1"/></linearGradient>
+  <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0a0d16" stop-opacity="1"/><stop offset="100%" stop-color="#0c101c" stop-opacity="1"/></linearGradient>
+  <linearGradient id="fadeLine" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#34d399" stop-opacity="0"/><stop offset="18%" stop-color="#34d399" stop-opacity="0.95"/><stop offset="82%" stop-color="#6ee7b7" stop-opacity="0.95"/><stop offset="100%" stop-color="#6ee7b7" stop-opacity="0"/></linearGradient>
+  <filter id="g" x="-60%" y="-200%" width="220%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="url(#panel)" stroke="#1d293b" stroke-width="1.4"/>
+<rect x="0" y="0" width="1200" height="104" rx="18" fill="none" stroke="#34d399" stroke-opacity=".06"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)" filter="url(#g)" opacity=".55"/>
+<g transform="translate(46.00 64.00) scale(0.027000 -0.027000)" fill="#34d399" ><path transform="translate(0.00 0)" d="M34 565Q34 601 46.5 629.0Q59 657 80 677Q101 697 128.5 707.5Q156 718 186 718Q216 718 243.5 707.5Q271 697 292 677Q313 657 325.5 629.0Q338 601 338 565V147Q338 111 325.5 83.0Q313 55 292 35Q271 15 243.5 4.5Q216 -6 186 -6Q156 -6 128.5 4.5Q101 15 80 35Q59 55 46.5 83.0Q34 111 34 147ZM136 147Q136 125 150.0 110.5Q164 96 186 96Q208 96 222.0 110.5Q236 125 236 147V565Q236 587 222.0 601.5Q208 616 186 616Q164 616 150.0 601.5Q136 587 136 565Z"/><path transform="translate(427.56 0)" d="M212 0V106H9V202L156 712H264L111 202H212V405H314V202H363V106H314V0Z"/></g>
+<g transform="translate(92.00 61.00) scale(0.036000 -0.036000)" fill="#e8eef7" ><path transform="translate(0.00 0)" d="M48 0V712H352V616H150V407H326V311H150V102H352V0Z"/><path transform="translate(436.67 0)" d="M394 712 248 0H158L13 712H121L202 215H204L286 712Z"/><path transform="translate(910.33 0)" d="M51 0V712H153V0Z"/><path transform="translate(1181.00 0)" d="M48 0V712H199Q287 712 332.5 664.0Q378 616 378 528V195Q378 95 329.5 47.5Q281 0 190 0ZM150 616V96H197Q240 96 258.0 117.5Q276 139 276 185V528Q276 570 259.0 593.0Q242 616 197 616Z"/><path transform="translate(1673.67 0)" d="M48 0V712H352V616H150V407H326V311H150V102H352V0Z"/><path transform="translate(2110.33 0)" d="M44 0V712H142L296 283H298V712H400V0H304L148 428H146V0Z"/><path transform="translate(2621.00 0)" d="M372 203V159Q372 126 359.5 96.5Q347 67 325 44Q303 21 273.5 7.5Q244 -6 210 -6Q181 -6 151.0 2.0Q121 10 97 30Q73 50 57.5 81.5Q42 113 42 162V554Q42 589 54.0 619.0Q66 649 88 671Q110 693 140.5 705.5Q171 718 208 718Q280 718 325 671Q347 648 359.5 616.5Q372 585 372 548V508H270V542Q270 572 253.0 594.0Q236 616 207 616Q169 616 156.5 592.5Q144 569 144 533V169Q144 138 157.5 117.0Q171 96 206 96Q216 96 227.5 99.5Q239 103 249 111Q258 119 264.0 133.0Q270 147 270 168V203Z"/><path transform="translate(3094.67 0)" d="M48 0V712H352V616H150V407H326V311H150V102H352V0Z"/></g>
+<text x="93" y="82" fill="#8190a6" text-anchor="start" font-family="'Arial Black', 'Arial', 'Helvetica', sans-serif" font-size="10.5" font-weight="bold" letter-spacing="2.1" >TESTS · CERTIFICATES · RECEIPTS</text>
+<line x1="92" y1="91" x2="1040" y2="91" stroke="#1b2638" stroke-width="1.2"/>
+<g filter="url(#g)">
+  <line x1="92" y1="91" x2="212" y2="91" stroke="url(#fadeLine)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="92;900;92" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="212;1040;212" dur="7s" repeatCount="indefinite"/>
+  </line>
+</g>
+<circle cx="1112" cy="52" r="23" fill="#34d399" fill-opacity=".05" stroke="#34d399" stroke-opacity=".16"/>
+<g transform="translate(1096 32)" fill="none" stroke="#6ee7b7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M16 3 26 7v7c0 7-4.2 12-10 15C10.2 26 6 21 6 14V7Z"/><path d="m11 15 3.2 3.2L21.5 11"/></g>
+<text x="1160" y="94" text-anchor="end" fill="#263247" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">RK // 2026</text>
+</svg>

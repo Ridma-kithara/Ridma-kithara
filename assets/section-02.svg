@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="ARSENAL — LANGUAGES · FRAMEWORKS · TOOLS">
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#a78bfa" stop-opacity="1"/><stop offset="100%" stop-color="#c4b5fd" stop-opacity="1"/></linearGradient>
+  <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0a0d16" stop-opacity="1"/><stop offset="100%" stop-color="#0c101c" stop-opacity="1"/></linearGradient>
+  <linearGradient id="fadeLine" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/><stop offset="18%" stop-color="#a78bfa" stop-opacity="0.95"/><stop offset="82%" stop-color="#c4b5fd" stop-opacity="0.95"/><stop offset="100%" stop-color="#c4b5fd" stop-opacity="0"/></linearGradient>
+  <filter id="g" x="-60%" y="-200%" width="220%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="1198" height="102" rx="18" fill="url(#panel)" stroke="#1d293b" stroke-width="1.4"/>
+<rect x="0" y="0" width="1200" height="104" rx="18" fill="none" stroke="#a78bfa" stroke-opacity=".06"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)"/>
+<rect x="22" y="25" width="6" height="54" rx="3" fill="url(#accent)" filter="url(#g)" opacity=".55"/>
+<g transform="translate(46.00 64.00) scale(0.027000 -0.027000)" fill="#a78bfa" ><path transform="translate(0.00 0)" d="M34 565Q34 601 46.5 629.0Q59 657 80 677Q101 697 128.5 707.5Q156 718 186 718Q216 718 243.5 707.5Q271 697 292 677Q313 657 325.5 629.0Q338 601 338 565V147Q338 111 325.5 83.0Q313 55 292 35Q271 15 243.5 4.5Q216 -6 186 -6Q156 -6 128.5 4.5Q101 15 80 35Q59 55 46.5 83.0Q34 111 34 147ZM136 147Q136 125 150.0 110.5Q164 96 186 96Q208 96 222.0 110.5Q236 125 236 147V565Q236 587 222.0 601.5Q208 616 186 616Q164 616 150.0 601.5Q136 587 136 565Z"/><path transform="translate(427.56 0)" d="M34 0V96L218 443Q232 469 234.0 488.5Q236 508 236 537Q236 550 235.5 564.5Q235 579 230 590Q225 601 215.0 608.5Q205 616 186 616Q163 616 149.5 603.0Q136 590 136 565V507H34V563Q34 595 46.0 623.0Q58 651 79 672Q99 693 127.0 705.5Q155 718 187 718Q227 718 255.5 703.5Q284 689 303 664Q321 639 329.5 607.0Q338 575 338 539Q338 513 337.0 495.5Q336 478 333 462Q330 446 323.0 430.0Q316 414 304 391L154 102H338V0Z"/></g>
+<g transform="translate(92.00 61.00) scale(0.036000 -0.036000)" fill="#e8eef7" ><path transform="translate(0.00 0)" d="M254 249 204 507H202L152 249ZM2 0 161 712H246L405 0H303L273 153H134L104 0Z"/><path transform="translate(473.67 0)" d="M150 616V394H208Q235 394 251.0 401.5Q267 409 276 423Q284 437 287.0 457.5Q290 478 290 505Q290 532 287.0 552.5Q284 573 275 588Q256 616 203 616ZM48 0V712H212Q392 712 392 503Q392 440 372.5 396.0Q353 352 304 325L414 0H306L211 304H150V0Z"/><path transform="translate(966.33 0)" d="M378 507H276V530Q276 565 259.5 590.5Q243 616 204 616Q183 616 170.0 608.0Q157 600 149 588Q141 575 138.0 558.5Q135 542 135 524Q135 503 136.5 489.0Q138 475 144 464Q150 453 161.5 445.0Q173 437 193 429L271 398Q305 385 326.0 367.5Q347 350 359 327Q370 303 374.0 272.5Q378 242 378 203Q378 158 369.0 119.5Q360 81 340 54Q319 26 285.0 10.0Q251 -6 202 -6Q165 -6 133.0 7.0Q101 20 78 43Q55 66 41.5 96.5Q28 127 28 163V201H130V169Q130 141 146.5 118.5Q163 96 202 96Q228 96 242.5 103.5Q257 111 265 125Q273 139 274.5 158.5Q276 178 276 202Q276 230 274.0 248.0Q272 266 266 277Q259 288 247.5 295.0Q236 302 217 310L144 340Q78 367 55.5 411.5Q33 456 33 523Q33 563 44.0 599.0Q55 635 77 661Q98 687 130.5 702.5Q163 718 208 718Q246 718 277.5 704.0Q309 690 332 667Q378 619 378 557Z"/><path transform="translate(1439.00 0)" d="M48 0V712H352V616H150V407H326V311H150V102H352V0Z"/><path transform="translate(1875.67 0)" d="M44 0V712H142L296 283H298V712H400V0H304L148 428H146V0Z"/><path transform="translate(2386.33 0)" d="M254 249 204 507H202L152 249ZM2 0 161 712H246L405 0H303L273 153H134L104 0Z"/><path transform="translate(2860.00 0)" d="M48 0V712H150V102H352V0Z"/></g>
+<text x="93" y="82" fill="#8190a6" text-anchor="start" font-family="'Arial Black', 'Arial', 'Helvetica', sans-serif" font-size="10.5" font-weight="bold" letter-spacing="2.1" >LANGUAGES · FRAMEWORKS · TOOLS</text>
+<line x1="92" y1="91" x2="1040" y2="91" stroke="#1b2638" stroke-width="1.2"/>
+<g filter="url(#g)">
+  <line x1="92" y1="91" x2="212" y2="91" stroke="url(#fadeLine)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="92;900;92" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="212;1040;212" dur="7s" repeatCount="indefinite"/>
+  </line>
+</g>
+<circle cx="1112" cy="52" r="23" fill="#a78bfa" fill-opacity=".05" stroke="#a78bfa" stroke-opacity=".16"/>
+<g transform="translate(1096 32)" fill="none" stroke="#c4b5fd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M16 4 28 10 16 16 4 10Z"/><path d="M4 16 16 22 28 16"/><path d="M4 22 16 28 28 22"/></g>
+<text x="1160" y="94" text-anchor="end" fill="#263247" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">RK // 2026</text>
+</svg>
